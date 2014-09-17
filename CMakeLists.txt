@@ -1,3 +1,4 @@
+project(boost_reflect)
 if( ENABLE_EXAMPLES )
     option( ENABLE_REFLECT_EXAMPLES "Build Boost.Reflect Examples" ON )
     if( ENABLE_REFLECT_EXAMPLES )
